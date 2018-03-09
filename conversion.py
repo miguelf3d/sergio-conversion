@@ -1,6 +1,10 @@
+# no more dolla
+
 def dollars2cents(dollars):
     cents = dollars * 100
     return cents
+
+#no hay leche
 
 def gallons2liters(gallons):
     liters = gallons * 4.54
